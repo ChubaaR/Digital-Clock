@@ -63,7 +63,7 @@
     margin-bottom: -10px;
   }
   
-  /*------Anemated Border---------*/
+  /*------Animated Border---------*/
   .box::before {
     content: "";
     position: absolute;
